@@ -141,3 +141,4 @@ $voiture1 = new Voiture('Toyota', 275);
 
 echo $voiture1->getVitesseMax();
 
+?>
